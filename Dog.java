@@ -25,4 +25,11 @@ public class Dog extends Animal{
         
         return awake;
     }
+    
+     public void print(){
+        System.out.println(super.getName() + " is a " + super.getTypeOfAnimal()
+                            + ", his coat is " + super.getColor()+ ", and he is " + 
+                            super.getAge()+ " years old. " + "His favorite food is " 
+                            + super.getFavFood() + ".");
+    }
 }

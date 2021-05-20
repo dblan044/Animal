@@ -1,2 +1,4 @@
 # Animal
-Practice the concept of Inheritance, Polymorphism and Encapsulation
+The purpose of this project is to practice the concepts of Inheritance, Polymorphism and Encapsulation.
+
+

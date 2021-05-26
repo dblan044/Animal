@@ -31,5 +31,6 @@ public class Cat extends Animal{
                             + ", her coat is " + super.getColor()+ ", and she is " + 
                             super.getAge()+ " years old. " + "Her favorite food is " 
                             + super.getFavFood() + ".");
+        System.out.println(super.getName() + " has " + Animal.numOfLegs + " legs.");
     }
 }

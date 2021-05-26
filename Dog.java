@@ -31,5 +31,6 @@ public class Dog extends Animal{
                             + ", his coat is " + super.getColor()+ ", and he is " + 
                             super.getAge()+ " years old. " + "His favorite food is " 
                             + super.getFavFood() + ".");
+        System.out.println(super.getName() + " has " + Animal.numOfLegs + " legs.");
     }
 }

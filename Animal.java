@@ -1,6 +1,8 @@
 //author @diana
 
 public class Animal {
+    static int numOfLegs = 4;
+    
     private String name;
     private String typeOfAnimal;
     private String color;

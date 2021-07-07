@@ -26,7 +26,7 @@ public class Dog extends Animal{
         return awake;
     }
     
-     public void print(){
+     public void printAnimal(){
         System.out.println(super.getName() + " is a " + super.getTypeOfAnimal()
                             + ", his coat is " + super.getColor()+ ", and he is " + 
                             super.getAge()+ " years old. " + "His favorite food is " 
